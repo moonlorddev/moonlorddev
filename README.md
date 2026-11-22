@@ -11,7 +11,7 @@ Currently interested in **Vue / Nuxt ecosystem**, **System Design**, **Performan
 
 **Currently working on**
 
-- [vuejs/core#16398](https://github.com/vuejs/core/issues/16398) — deep watchers miss nested changes to objects used as `Map` keys
+- [vuejs/core#16401](https://github.com/vuejs/core/pull/16401) — fix(reactivity): traverse Map keys in deep watchers · 🔍 in review
 - [nuxt/image#1434](https://github.com/nuxt/image/issues/1434) — support `calc()` values in `sizes`
 
 **Contributions** · [all my pull requests ↗](https://github.com/pulls?q=is%3Apr+author%3Amoonlorddev+-user%3Amoonlorddev)
